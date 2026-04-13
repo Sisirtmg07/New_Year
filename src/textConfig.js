@@ -16,8 +16,10 @@ const textConfig = {
 
 Every moment by your side feels like a dream I wish would last forever 💫
 
-You’re the most important person in my life. Every moment with you feels like a gift I’ll always be thankful for. You inspire me in ways I can’t explain, make me smile without effort, and make me want to grow into someone better—for you and for us.
-`,
+You're the most important person in my life. Every moment with you feels like a gift I'll always be thankful for. You inspire me in ways I can't explain, make me smile without effort, and make even the simplest days feel magical.
+
+With all my heart,
+Forever yours 💕`,
       letterSignature: "💕",
       envelopeClickHint: "Click to open the envelope",
       specialDeliveryText: "Special Delivery 💌",
@@ -52,7 +54,7 @@ You’re the most important person in my life. Every moment with you feels like 
         stay: "Stay here a bit longer",
       },
       cardMessages: [
-        "You’re my favorite memory—the kind that makes me smile without even noticing 💖",
+        "You're my favorite memory—the kind that makes me smile without even noticing 💖",
         "I did like you and I still respect what you said about being good friends. ✨",
         "The little things you do — your expressions, your laughter, the way you talk — they've all become my favorite details. 🌸",
       ],
@@ -86,20 +88,22 @@ You’re the most important person in my life. Every moment with you feels like 
     landing: {
       title: "Happy New Year 2083! 🎉✨",
       subtitle: "May this year bring you smiles, success, love, and countless beautiful moments 💖",
-      lastLine: "Tap below and let’s begin this magical New Year journey together ✨",
+      lastLine: "Tap below and let's begin this magical New Year journey together ✨",
       button: "Start the Celebration 🎊💫",
-      footer: "Here’s to new dreams, new beginnings, and a beautiful 2026 🎉🥂",
+      footer: "Here's to new dreams, new beginnings, and a beautiful 2083 (Nepali Calendar) 🎉🥂",
     },
 
     letter: {
       headerTitle: "A New Year Letter 💌",
-      headerSubtitle: "Warm wishes for 2026",
+      headerSubtitle: "Warm wishes for 2083",
       letterHeaderTitle: "Dear Ji",
       letterMessage: `Dear Ji,
 
-As the year turns, may your days be filled with laughter, love, and new adventures. May every dream you follow bring you closer to happiness, and may each moment become a memory you’ll always cherish.
+As the year turns, may your days be filled with laughter, love, and new adventures. May every dream you follow bring you closer to happiness, and may each moment become a memory you'll always cherish.
 
-Wishing you a fantastic 2026 ahead!
+This year, I wish you endless possibilities, gentle moments of joy, and the strength to chase every dream your heart desires. You deserve all the beauty this world has to offer.
+
+Wishing you a fantastic 2083 ahead!
 
 Happy New Year! 🎉`,
       letterSignature: "Sisir 😎",
@@ -131,7 +135,7 @@ Happy New Year! 🎉`,
       },
       popup: {
         title: "All Wishes Unlocked!",
-        message: "May every wish come true for you in 2026! ✨",
+        message: "May every wish come true for you in 2083! ✨",
         openFinal: "Open the Final Letter 💌",
         stay: "Stay and celebrate more!",
       },
@@ -147,7 +151,7 @@ Happy New Year! 🎉`,
       sealingText: "Sealing your wish...",
       sealButton: "Seal this Wish 🎉",
       restartButton: "Restart",
-      sealedTitle: "Wish Sealed for 2026",
+      sealedTitle: "Wish Sealed for 2083",
       sealedSubtitle: "Wishing You a Wonderful Year!",
       typedDefault: "Happy New Year! 🎊",
       experienceAgain: "Experience Again ✨",
@@ -158,7 +162,7 @@ Happy New Year! 🎉`,
       letterParagraphs: [
         "May 2083 wrap you in endless love, soft moments, and little miracles that make your heart smile ✨💖",
         "I hope you always chase your dreams, and let your heart lead you gently toward happiness 💫",
-        "Having you in my life is something I’ll always be grateful for—every moment with you feels special 💕",
+        "Having you in my life is something I'll always be grateful for—every moment with you feels special 💕",
         "You are as beautiful as a warm sunrise, and I wish you a year filled with love, peace, and everything your heart desires 🌹",
       ],
 
