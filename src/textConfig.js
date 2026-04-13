@@ -1,7 +1,7 @@
 const textConfig = {
   landingLove: {
     title: "Hi there, my lovely Jigglypuff! 💕💕",
-    subtitle: "I made a little surprise to make you smile today—something special just for you 💖",
+    subtitle: "I made a little surprise to make you smile today 💖",
     lastLine: "Tap below and discover a piece of my heart ✨",
     button: "Unlock My Heart 💗",
     footer: "Made with so much love, just for you 💕",
@@ -9,10 +9,10 @@ const textConfig = {
 
   landingNewYear: {
     title: "Happy New Year 2083! 🎉✨",
-    subtitle: "May this year bring you smiles, success, love, and countless beautiful moments 💖",
-    lastLine: "Tap below and let’s begin this magical New Year journey together ✨",
+    subtitle: "May this year bring you smiles and success 💖",
+    lastLine: "Let’s begin this magical journey ✨",
     button: "Start the Celebration 🎊💫",
-    footer: "Here’s to new dreams, new beginnings, and a beautiful 2026 🎉🥂",
+    footer: "Here’s to 2026 🎉🥂",
   },
 
   letterLove: {
@@ -23,10 +23,8 @@ const textConfig = {
 
 Every moment by your side feels like a dream I wish would last forever 💫
 
-You’re the most important person in my life...`,
+You inspire me every day...`,
     letterSignature: "💕",
-    envelopeClickHint: "Click to open the envelope",
-    specialDeliveryText: "Special Delivery 💌",
     continueButton: "Continue To See More ✨"
   },
 
@@ -36,117 +34,91 @@ You’re the most important person in my life...`,
     letterHeaderTitle: "Dear Ji",
     letterMessage: `Dear Ji,
 
-As the year turns, may your days be filled with laughter, love, and new adventures 🎉`,
+Wishing you a fantastic 2026 ahead 🎉`,
     letterSignature: "Sisir 😎",
-    envelopeClickHint: "Click to open your New Year wish",
-    specialDeliveryText: "Special Delivery 🎉",
     continueButton: "Continue To Celebrate ✨"
   },
 
   chillZoneLove: {
     heading: "A Dedicated Playlist For You",
     subheading: "I Hope You'll Like It",
-    chooseTrackHint: "Choose a track to start vibing ✨",
-    continueButton: "Continue to Next ✨",
+    chooseTrackHint: "Choose a track ✨",
+    continueButton: "Continue",
     tracks: [
       { id: 1, title: "Dil Cheeze Tujhe Dedi", caption: "You own this heart 💞" },
       { id: 2, title: "If the world was ending", caption: "I'd still find you 🤍" },
-      { id: 3, title: "Dil ka Jo Haal hai", caption: "Tu Kaare Dil Bekarar 💞" }
+      { id: 3, title: "Dil ka Jo Haal hai", caption: "💞" }
     ]
   },
 
   chillZoneNewYear: {
-    heading: "New Year Playlist",
-    subheading: "Celebrate with festive tracks!",
-    chooseTrackHint: "Choose a song to start the party ✨",
-    continueButton: "Continue to Next ✨",
+    heading: "New Year Playlist 🎉",
+    subheading: "Celebrate with music",
+    chooseTrackHint: "Choose a song ✨",
+    continueButton: "Continue",
     tracks: [
-      { id: 1, title: "Chanel", caption: "Classic style ✨" },
-      { id: 2, title: "Shaky Shaky", caption: "Let loose 🎉" },
-      { id: 3, title: "APT", caption: "City lights 🌃✨" }
+      { id: 1, title: "Chanel", caption: "Classic ✨" },
+      { id: 2, title: "Shaky Shaky", caption: "Dance 🎉" },
+      { id: 3, title: "APT", caption: "Vibes 🌃✨" }
     ]
   },
 
   cardsLove: {
     heading: "Some Special Cards For You",
-    subheading: "Click each card to reveal a special message!",
+    subheading: "Tap to reveal messages",
     tapLabel: "✨ Tap!",
     progress: {
-      start: "Start by tapping any card above ✨",
-      discovered: (n, total) => `${n} of ${total} messages discovered! 💕`,
-      complete: "All messages discovered! 🎉"
-    },
-    popup: {
-      title: "All Messages Unlocked!",
-      message: "Each message is a piece of my heart ✨",
-      openFinal: "Open the Final Letter 💌",
-      stay: "Stay here a bit longer"
+      start: "Start tapping ✨",
+      discovered: (n, total) => `${n} of ${total} messages discovered 💕`,
+      complete: "All messages unlocked 🎉"
     },
     cardMessages: [
       "You’re my favorite memory 💖",
-      "I still respect you. ✨",
-      "Your laughter is my favorite detail 🌸"
+      "I respect you always ✨",
+      "Your laughter is my favorite 🌸"
     ]
   },
 
   cardsNewYear: {
-    heading: "New Year Wishes",
-    subheading: "Tap each card for a message!",
+    heading: "New Year Wishes 🎉",
+    subheading: "Tap each card",
     tapLabel: "✨ Tap!",
     progress: {
       start: "Start tapping ✨",
-      discovered: (n, total) => `${n} of ${total} wishes discovered! 🎉`,
-      complete: "All wishes revealed! 🎊"
-    },
-    popup: {
-      title: "All Wishes Unlocked!",
-      message: "May all wishes come true ✨",
-      openFinal: "Open the Final Letter 💌",
-      stay: "Stay and celebrate more!"
+      discovered: (n, total) => `${n} of ${total} wishes discovered 🎉`,
+      complete: "All wishes revealed 🎊"
     },
     cardMessages: [
-      "Love & happiness 💖🎉",
-      "Peace & miracles 💫💞",
-      "Joy & success ✨💗"
+      "Love 💖",
+      "Peace 💫",
+      "Happiness ✨"
     ]
   },
 
   finalLetterLove: {
     title: "Final Love Letter",
-    sealingText: "Sealing your letter...",
-    sealButton: "Seal this Letter 💌",
-    restartButton: "Restart",
-    sealedTitle: "Letter Sealed with Love",
-    sealedSubtitle: "I Love You Always",
+    sealButton: "Seal 💌",
     typedDefault: "Always Yours 💕",
-    sendKissButton: "Send a Virtual Kiss 💋",
     letterGreeting: "My sweetest darling,",
     letterParagraphs: [
-      "You're the calm I reach for 💕",
-      "I hope this made you smile ✨",
-      "I love you so much 💖"
+      "You're my calm 💕",
+      "I love you 💖"
     ]
   },
 
   finalLetterNewYear: {
-    title: "Final New Year Wish",
-    sealingText: "Sealing your wish...",
-    sealButton: "Seal this Wish 🎉",
-    restartButton: "Restart",
-    sealedTitle: "Wish Sealed for 2026",
-    sealedSubtitle: "Happy New Year!",
-    typedDefault: "Happy New Year! 🎊",
-    sendKissButton: "Send a Virtual Hug 🤗",
+    title: "Final New Year Wish 🎉",
+    sealButton: "Seal 🎉",
+    typedDefault: "Happy New Year 🎊",
     letterGreeting: "Dear Madam ji,",
     letterParagraphs: [
-      "May 2083 bring love ✨💖",
-      "Follow your dreams 💫",
-      "You are special 💕"
+      "May 2083 bring love 💖",
+      "Stay happy ✨"
     ]
   },
 
   common: {
-    continue: "Continue to Next ✨",
+    continue: "Continue ✨",
     close: "Close",
     ok: "OK"
   }
