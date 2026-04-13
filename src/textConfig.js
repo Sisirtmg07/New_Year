@@ -8,11 +8,11 @@ const textConfig = {
   },
 
   landingNewYear: {
-    title: "Happy New Year 2083! 🎉✨",
+    title: "Happy New Year 2026! 🎉✨",
     subtitle: "May this year bring you smiles and success 💖",
-    lastLine: "Let’s begin this magical journey ✨",
+    lastLine: "Let's begin this magical journey ✨",
     button: "Start the Celebration 🎊💫",
-    footer: "Here’s to 2026 🎉🥂",
+    footer: "Here's to 2026 🎉🥂",
   },
 
   letterLove: {
@@ -73,7 +73,7 @@ Wishing you a fantastic 2026 ahead 🎉`,
       complete: "All messages unlocked 🎉"
     },
     cardMessages: [
-      "You’re my favorite memory 💖",
+      "You're my favorite memory 💖",
       "I respect you always ✨",
       "Your laughter is my favorite 🌸"
     ]
@@ -112,7 +112,7 @@ Wishing you a fantastic 2026 ahead 🎉`,
     typedDefault: "Happy New Year 🎊",
     letterGreeting: "Dear Madam ji,",
     letterParagraphs: [
-      "May 2083 bring love 💖",
+      "May 2026 bring love 💖",
       "Stay happy ✨"
     ]
   },
