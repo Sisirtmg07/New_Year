@@ -1,13 +1,13 @@
 const textConfig = {
   landing: {
-    title: "Hey Jigglypuff! 💕",
-    subtitle: "I wanted to make you smile today, so I created something very special—just for you 💖",
-    lastLine: "Tap below and let me show you what’s inside my heart ✨",
-    button: "Open My Heart 💗",
-    footer: "Made with lots love, only for you 💕",
+    title: "Hi there, my lovely Jigglypuff! 💕💕",
+    subtitle: "I made a little surprise to make you smile today—something special just for you 💖",
+    lastLine: "Tap below and discover a piece of my heart ✨",
+    button: "Unlock My Heart 💗,
+    footer: "Made with so much love, just for you 💕",
     },
     landing: {
-      title: "Happy New Year 2026! 🎉✨",
+      title: "Happy New Year 2083! 🎉✨",
       subtitle: "May this year bring you smiles, success, love, and countless beautiful moments 💖",
       lastLine: "Tap below and let’s begin this magical New Year journey together ✨",
       button: "Start the Celebration 🎊💫",
@@ -16,14 +16,14 @@ const textConfig = {
 
   // ActivityPage/Letter configuration
   letter: {
-    headerTitle: "A Love Letter 💌",
-    headerSubtitle: "From my heart to yours",
-    letterHeaderTitle: "My Love",
+    headerTitle: "A Little Love Note 💌",
+    headerSubtitle: "Straight from my heart to yours",
+    letterHeaderTitle: "My Dearest",
     letterMessage: `My Cute love,
 
-Every moment with you feels like a beautiful dream—one I never want to wake up from.
+Every moment by your side feels like a dream I wish would last forever 💫
 
-You are the most precious person in my life. Each day with you feels like a gift, and I’m thankful for every second we spend together. You inspire me, make me smile without trying, and make me want to be the best version of myself—always.
+You’re the most important person in my life. Every moment with you feels like a gift I’ll always be thankful for. You inspire me in ways I can’t explain, make me smile without effort, and make me want to grow into someone better—for you and for us.
 `,
     letterSignature: "💕`",
     envelopeClickHint: "Click to open the envelope",
@@ -84,7 +84,7 @@ You are the most precious person in my life. Each day with you feels like a gift
       stay: "Stay here a bit longer"
     },
     cardMessages: [
-      "You're my favorite kind of memory — the one that makes me smile without even realizing it. 💖",
+      "You’re my favorite memory—the kind that makes me smile without even noticing 💖",
       "I did like you and i still respect what you said about being good friends. ✨",
       "The little things you do — your expressions, your laughter, the way you talk — they've all become my favorite details. 🌸"
     ]
@@ -105,9 +105,9 @@ You are the most precious person in my life. Each day with you feels like a gift
         stay: "Stay and celebrate more!"
       },
       cardMessages: [
-        "Wishing you a year full of smiles and happy moments! 🎉💖",
-        "May 2026 bring you joy, love, and little miracles every day 🎊💫",
-        "May every day sparkle with positivity and love! 🎉"
+        "Wishing you a year filled with love, soft smiles, and beautiful moments with someone special 💖🎉",
+        "May 2083 wrap your life in love, warmth, and sweet little miracles every day 💫💞",
+        "Hope every day of 2083 shines gently with love, peace, and endless happiness ✨💗"
       ]
     },
 
@@ -146,10 +146,10 @@ You are the most precious person in my life. Each day with you feels like a gift
       // Letter content
       letterGreeting: "Dear Madam ji,",
       letterParagraphs: [
-        "May 2026 wrap you in love, joy, and sweet little miracles every day ✨",
-        "Cherish every moment, dream big, and let your heart lead the way 💖",
-        "I’m so grateful to have you in my life—here’s to more beautiful memories together 💫",
-        "Wishing you a year as radiant, kind, and wonderful as your heart 🌹"
+    "May 2083 wrap you in endless love, soft moments, and little miracles that make your heart smile ✨💖",
+    "I hope you always chase your dreams, and let your heart lead you gently toward happiness 💫",
+    "Having you in my life is something I’ll always be grateful for—every moment with you feels special 💕",
+    "You are as beautiful as a warm sunrise, and I wish you a year filled with love, peace, and everything your heart desires 🌹"
       ],
       sealingNote: "Sealing will finish the celebration."
     },
